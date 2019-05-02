@@ -5,5 +5,5 @@ For testing this, you can either use openshift local cluster or you can apply on
 For MAC
 
 ```bash
-oc cluster up
+oc cluster up // you may meet some issues when dealing with it
 ```
